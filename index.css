@@ -1,0 +1,36 @@
+html{
+    background-color: rgb(70, 194, 152);
+}
+
+.navbar{
+    position:absolute;
+    background-color: rgb(61, 61, 61);
+    float: left;
+    padding: 10px;
+    width:97%;
+}
+
+.navbar a{
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.navbar a:hover{
+    background-color: rgb(70, 194, 152);
+    color: black;
+}
+
+.container{
+    padding: 10%;
+    overflow: hidden;
+    text-align: center;
+    color: white;
+}
+
+.btn{
+    color: black;
+    text-decoration:solid;
+    padding: 1%;
+    background-color: whitesmoke;
+}
