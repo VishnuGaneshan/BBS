@@ -1,4 +1,4 @@
-# BBS
+# BasicBankingSystem
 # The Sparks Foundation's Web Development and Designing Internship
 # Basic Banking System Website
 A Dynamic Website used to transfer money between 10 users.<br>
