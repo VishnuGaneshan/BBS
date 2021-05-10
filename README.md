@@ -14,3 +14,6 @@ DATABASE:- MYSQL
 
 # Live Project link:
 https://virgate-buzzers.000webhostapp.com/
+
+# YOUTUBE Video Link:
+https://youtu.be/owrIh69TTHo/video
